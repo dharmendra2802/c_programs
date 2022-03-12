@@ -49,7 +49,7 @@ void getKeyMessage() {
 	int i, j;
 	char msg[3];
  
-	printf("Enter 3x3 matrix for key (It should be inversible):\n");
+	printf("Enter 3x3 matrix for key\n");
 	
 	for(i = 0; i < 3; i++)
 		for(j = 0; j < 3; j++) {
